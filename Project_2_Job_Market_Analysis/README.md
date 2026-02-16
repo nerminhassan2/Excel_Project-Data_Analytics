@@ -1,9 +1,9 @@
 
-# Project 2 Analysis
+# Job Market Analysis
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land a higher pay.
 
 ### Questions to Analyze
 
@@ -89,7 +89,7 @@ The following Excel skills were utilized for analysis:
 
 #### 🧮 DAX
 
-- To calculate the median year salary I used DAX.
+- To calculate the median year salary, I used DAX.
 
     ```
     Median Salary := MEDIAN(data_jobs_all[salary_year_avg])

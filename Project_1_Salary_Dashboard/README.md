@@ -8,8 +8,6 @@ This interactive Excel dashboard helps job seekers explore salary trends in data
 
 Using real-world job data from 2023, I transformed raw data into clear visual insights that make salary comparisons simple and intuitive.
 
-### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
@@ -118,5 +116,3 @@ By combining charts, formulas, and data validation, I created a dashboard that a
 - Explore salary trends
 - Make informed career decisions
 - Understand how geography and role type affect compensation
-
-This project highlights my growing skills in data analysis, Excel automation, and dashboard design.

@@ -4,7 +4,7 @@ This repository contains a collection of Excel-based data analytics projects foc
 
 Each project demonstrates practical applications of Excel for **data cleaning, transformation, modeling, analysis, and visualization**, using real-world job posting data.
 
----
+
 
 ## Dataset Description
 
@@ -19,7 +19,6 @@ This dataset was provided as part of my Excel learning journey and served as a s
 
 > 🔁 **Note:** The same dataset was used across all projects in this repository to explore different analytical perspectives and techniques.
 
----
 
 ## Projects Overview
 
@@ -44,9 +43,8 @@ impact compensation.
 - Interactive dropdown filters  
 
 📂 *For full details, analysis steps, and visuals → see the project folder:*  
-➡️ `Project_1-Dashboard`
+➡️ [Excel Salary Dashboard](Project_1_Salary_Dashboard/)
 
----
 
 ### Project 2️⃣ — Data Science Job Market Analysis
 
@@ -69,9 +67,8 @@ An in-depth analytical project focused on answering key questions about the data
 - Advanced salary & skills analysis  
 
 📂 *For full methodology, insights, and visuals → see the project folder:*  
-➡️ `Project_2-Analysis`
+➡️ [Data Job Market Analysis](Project_2_Job_Market_Analysis/)
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -82,7 +79,6 @@ An in-depth analytical project focused on answering key questions about the data
 - PivotTables & PivotCharts  
 - Data Visualization  
 
----
 
 ## 🎯 Purpose of This Repository
 
@@ -94,6 +90,4 @@ This repository showcases my journey in learning **data analytics using Excel**,
 - Business-focused insights  
 - Dashboard storytelling  
 
-It serves as a portfolio of practical Excel data projects.
-
----
+I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.

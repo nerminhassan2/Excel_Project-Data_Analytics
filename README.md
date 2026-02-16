@@ -1,4 +1,4 @@
-# Excel_Project-Data_Analytics
+# Excel Project Data Analytics
 
 This repository contains a collection of Excel-based data analytics projects focused on exploring salary trends, job roles, and in-demand skills within the data science job market.
 
@@ -90,4 +90,4 @@ This repository showcases my journey in learning **data analytics using Excel**,
 - Business-focused insights  
 - Dashboard storytelling  
 
-I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+I hope this project demonstrates my analytical skills in Excel and showcases my ability to extract insights from real-world data.

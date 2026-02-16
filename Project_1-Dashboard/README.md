@@ -19,17 +19,6 @@ The following Excel skills were utilized for analysis:
 - **🧮 Formulas and Functions**
 - **❎ Data Validation**
 
-### Dataset Description
-
-The dataset contains real-world data science job information from 2023, including:
-
-- **Job titles**
-- **Salaries**
-- **Locations**
-- **Skills**
-
-This dataset was provided as part of my Excel learning journey and served as a strong foundation for building a practical analytical dashboard.
-
 
 
 ## Dashboard Build

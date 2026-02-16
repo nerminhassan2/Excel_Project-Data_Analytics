@@ -18,11 +18,11 @@ To understand the data science job market, I asked the following:
 
 The following Excel skills were utilized for analysis:
 
-- **📊 Pivot Tables**
-- **📈 Pivot Charts**
-- **🧮 DAX (Data Analysis Expressions)**
-- **🔍 Power Query**
-- **💪 Power Pivot**
+- **Pivot Tables**
+- **Pivot Charts**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Power Pivot**
 
 
 
@@ -53,13 +53,13 @@ The following Excel skills were utilized for analysis:
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - data_jobs_all
 
-        ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+        ![2_Project_Analysis_Screenshot3.png](/Images/2_Project_Analysis_Screenshot3.png)
 
     - data_job_skills
 
-        ![2_Project_Analysis_Screenshot4.png](/0_Resources/Images/2_Project_Analysis_Screenshot4.png)
+        ![2_Project_Analysis_Screenshot4.png](/Images/2_Project_Analysis_Screenshot4.png)
 
-### 📊 Analysis
+### Analysis
 
 #### 💡 Insights
 
@@ -74,7 +74,7 @@ The following Excel skills were utilized for analysis:
 
 ## 2️⃣ What’s the salary for data jobs in different regions?
 
-### 🧮 Skills: PivotTables & DAX
+### Skills: PivotTables & DAX
 
 #### 📈Pivot Table
 
@@ -95,7 +95,7 @@ The following Excel skills were utilized for analysis:
     Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
     ```
 
-### 📊 Analysis
+### Analysis
 
 #### 💡 Insights
 
@@ -110,9 +110,9 @@ The following Excel skills were utilized for analysis:
 
 ## 3️⃣ What are the top skills of data professionals?
 
-### 🔧 Skill: Power Pivot
+### Skill: Power Pivot
 
-#### 💪 Power Pivot
+#### 📊 Power Pivot
 
 - I created a data model by integrating the `data_jobs_all` and `data_jobs_skills` tables into one model.
 - Since I had already cleaned the data using Power Query; Power Pivot created a relationship between these two tables.
@@ -129,7 +129,7 @@ The following Excel skills were utilized for analysis:
 
     ![2_Project_Analysis_Screenshot6.png](/Images/2_Project_Analysis_Screenshot6.png)
 
-### 📊Analysis
+### Analysis
 
 #### 💡Insights
 
@@ -144,7 +144,7 @@ The following Excel skills were utilized for analysis:
 
 ## 4️⃣ What’s the pay of the top 10 skills?
 
-### 📊 Skill: Advanced Charts (Pivot Chart)
+### Skill: Advanced Charts (Pivot Chart)
 
 #### 📈 PivotChart
 
@@ -153,7 +153,7 @@ The following Excel skills were utilized for analysis:
     - **Secondary Axis:** Skill Likelihood (as a Line with Markers)
 - To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to diamonds.
 
-### 📊 Analysis
+### Analysis
 
 #### 💡Insights
 

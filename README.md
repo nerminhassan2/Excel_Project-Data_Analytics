@@ -6,16 +6,9 @@ Each project demonstrates practical applications of Excel for **data cleaning, t
 
 
 
-## Dataset Description
+## Dataset 
 
-The dataset contains real-world data science job information from 2023, including:
-
-- **Job Titles**
-- **Salaries**
-- **Locations**
-- **Skills**
-
-This dataset was provided as part of my Excel learning journey and served as a strong foundation for building practical analytical projects and interactive dashboards.
+The dataset includes real-world data science job information from 2023, such as **Job Titles**, **Salaries**, **Locations**, and **Skills**, along with other details that give a fuller picture of the job market.
 
 > 🔁 **Note:** The same dataset was used across all projects in this repository to explore different analytical perspectives and techniques.
 

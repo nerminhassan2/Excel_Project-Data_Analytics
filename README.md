@@ -1,10 +1,11 @@
-# Excel Project Data Analytics
+# Data Analyst Job Market Analysis — Excel Project 
 
 This repository contains a collection of Excel-based data analytics projects focused on exploring salary trends, job roles, and in-demand skills within the data science job market.
 
 Each project demonstrates practical applications of Excel for **data cleaning, transformation, modeling, analysis, and visualization**, using real-world job posting data.
 
-
+> 📌 **Important Note:**
+> Each project folder contains its **own detailed README file** explaining the project workflow, analysis steps, and key insights, along with **all related Excel files and visualizations**.
 
 ## Dataset 
 
@@ -82,5 +83,3 @@ This repository showcases my journey in learning **data analytics using Excel**,
 - Analytical thinking  
 - Business-focused insights  
 - Dashboard storytelling  
-
-I hope this project demonstrates my analytical skills in Excel and showcases my ability to extract insights from real-world data.
